@@ -2,12 +2,9 @@
 
 
 
-- 🔭 Hoje trabalho com Desenvolvimento Front-end
+- 🔭 CTO and Senior Software Engineer On My System Labs ®
 
-- 🌱 Estudando novas tecnologias como: UI/Disigner (FIGMA E INVISIBLE), Flutter e C# .NET
-
-- 🤞 Em Fase de transição de carreira e em busca da primeira oportunidade ✨✨✨✨✨✨✨
-
+- 🌱 Stack: PHP with Laravel.
 
 
 <!-- Painel de Trabalhos -->
@@ -28,13 +25,11 @@
 
  <div>   
 
- <a href="https://discord.gg/H4JTzhCb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"    target="_blank"></a> 
+ <a href = "mailto:pedronovaisengcp@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
- <a href = "mailto:alexsgross@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/pedro-novais-4113a915b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- <a href="https://www.linkedin.com/in/alexsgross/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- <a href="https://api.whatsapp.com/send?phone=5524992358368" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+ <a href="https://api.whatsapp.com/send?phone=5582988291668" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
 
                                            
 

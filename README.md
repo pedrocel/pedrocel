@@ -41,19 +41,19 @@
 
   
 
-<div style="display: inline_block">
+<!-- <div style="display: inline_block"> -->
 
   
-
+<!-- 
  <h3> Back-end </h3>
 
  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
- <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dot-net/dot-net-original.svg"><hr>
+ <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dot-net/dot-net-original.svg"><hr> -->
 
   
 
- <h3> Front-end </h3>
+<!--  <h3> Front-end </h3>
 
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
@@ -67,57 +67,57 @@
 
   
 
- <hr>
+ <hr> -->
 
   
 
- <h3> UI/UX Designer </h3>
+<!--  <h3> UI/UX Designer </h3> -->
 
    
 
- <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg">
+<!--  <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg">
 
  <img align="center" alt="protoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/photoshop/photoshop-line.svg">
 
  <img align="center" alt="adobe xd" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/xd/xd-plain.svg">
 
- <hr>
+ <hr> -->
 
    
 
- <h3> Desenvolvimento Mobile </h3>  
+<!--  <h3> Desenvolvimento Mobile </h3>   -->
 
   
 
- <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg">
+<!--  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg">
 
-  <hr>
-
-  
-
-  <h3> IDE </h3>  
+  <hr> -->
 
   
 
- <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
+<!--   <h3> IDE </h3>   -->
+
+  
+
+<!--  <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
 
  <img align="center" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
 
  <img align="center" alt="android studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/android/android-original.svg"><br>
 
-  <hr>
+  <hr> -->
 
    
 
  <!-- Contador de visitas -->
 
   
-
+<!-- 
  <h3> Visitantes </h3>  
 
  <div>
 
   <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=alexsgross&color=green" alt="alexsgross" /> <br>
 
- </div>  
+ </div>   -->
 

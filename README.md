@@ -1,8 +1,6 @@
 <!-- Apresentação -->
 
-
-
-- 🔭 CTO and Senior Software Engineer On My System Labs ®
+- 🔭 Project manager and systems analyst at SENAI-AL ®
 
 - 🌱 Stack: PHP with Laravel.
 

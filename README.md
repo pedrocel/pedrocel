@@ -2,8 +2,7 @@
 
 - 🔭 Project manager and systems analyst at SENAI-AL - Backend Coding Instructor at SENAI-AL ®
 
-- 🌱 Stack: PHP with Laravel.
-
+- 🌱 More than 8 years creating internet solutions
 
 <!-- Painel de Trabalhos -->
 

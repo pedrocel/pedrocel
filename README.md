@@ -1,6 +1,6 @@
 <!-- Apresentação -->
 
-- 🔭 Project manager and systems analyst at SENAI-AL ®
+- 🔭 Project manager and systems analyst at SENAI-AL - Backend Coding Instructor at SENAI-AL ®
 
 - 🌱 Stack: PHP with Laravel.
 

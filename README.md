@@ -1,4 +1,3 @@
-## Olá, meu nome é {seu nome}!
 
 ### ⚙️ GitHub Analytics
 

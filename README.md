@@ -1,44 +1,37 @@
-### ⚙️ GitHub Analytics
+## 📊 Engineering Dashboard
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=pedrocel&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocel&theme=dark&hide_border=true&count_private=true&layout=compact"
-        alt="Top Languages"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=pedrocel&theme=dark&hide_border=true"
-        alt="GitHub Streak"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=pedrocel&label=Profile%20views&color=0e75b6&style=flat" />
+
+<img src="https://img.shields.io/github/followers/pedrocel?label=Followers&style=social" />
+
+<img src="https://img.shields.io/github/stars/pedrocel?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+
+</p>
 
 ---
 
-### 🏆 GitHub Profile Trophy
+## 📈 Activity Graph
 
 <p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=pedrocel&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrocel&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## 📊 Metrics Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrocel&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrocel&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedrocel&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrocel&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedrocel&theme=github_dark&utcOffset=-3" />
 </p>

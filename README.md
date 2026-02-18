@@ -1,4 +1,3 @@
-
 ### ⚙️ GitHub Analytics
 
 <table>
@@ -6,29 +5,29 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=pedrocel&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=pedrocel&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocel&theme=dark&hide_border=true&count_private=true&layout=compact"
+        alt="Top Languages"
       />
     </td>
     <td>
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=pedrocel&theme=dark&hide_border=false"
-        alt="Github Stats"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=pedrocel&theme=dark&hide_border=true"
+        alt="GitHub Streak"
       />
     </td>
   </tr>
 </table>
 
---- 
+---
 
 ### 🏆 GitHub Profile Trophy
 
